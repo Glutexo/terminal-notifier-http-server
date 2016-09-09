@@ -1,4 +1,4 @@
-# terminal-otifier HTTP Server #
+# terminal-notifier HTTP Server #
 
 This is a trivial HTTP interface to the [terminal-notifier](https://github.com/julienXX/terminal-notifier) app. It can be used to send notifications to the  macOS (former OS X) Notification Center via HTTP. It uses [Sinatra](http://www.sinatrarb.com) to do all the non-magical magic.
 
